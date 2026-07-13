@@ -47,6 +47,9 @@ meu-blog/
 ├── pages/
 │   ├── about/
 │   ├── blogroll/
+│   │  ├── index.html
+│   │  ├── links.md
+│   │  └── buttons/
 │   ├── arquivo do blog/
 │   ├── créditos/
 │   ├── picrew, doll maker e etc/
