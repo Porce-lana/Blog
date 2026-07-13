@@ -10,6 +10,8 @@ meu-blog/
 │   └── backups/
 │       ├── template-2026-07-13.xml
 │       └── ...
+│ 
+├── layouts/
 │
 ├── assets/
 │   ├── css/
