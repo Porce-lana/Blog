@@ -11,16 +11,19 @@
 	        --yellow: hsla(33, 88%, 83%, 1);
 	        --pink: #7fffdf;
 	        --violet: hsla(323, 21%, 41%, 1);
-	        --peach: hsla(16, 91%, 78%, 1);
+	        --white: #fefdfa;
+            --black: #1b1b1b;
        }
          
+      main{margin-left: 10rem;margin-top:-5rem;}
+      
       body {
         margin: 0;
         background-color: #fff;
-        background-image: url(&quot;https://www.transparenttextures.com/patterns/lined-paper.png&quot;);
+        background-image: url(https://www.transparenttextures.com/patterns/lined-paper.png);
         font-family: Consolas;
         font-size: 14px;
-        font-color: #02075d;
+        color: #02075d;
         line-height: 1.5em;
       } 
 
@@ -34,35 +37,31 @@
       h1 {
         font-family: 'Bitcount Prop Double', sans-serif;
         font-size: 2.8rem;
-        font-weight: 700;
-        color: #ff7fe2;
-        text-shadow: 2px 2px 0 #7fffdf;
+        font-weight: 0;
+        color: var(--blue1);
+        text-shadow: 2px 2px 0 var(--pink);
         letter-spacing: -1px;
         margin-bottom: 0.2rem;
       }
 
       #ultima-atualizacao {	
-        display: block;
-	      margin: 5px;
-	      padding: 0px;
-	      background: var(--yellow);
-        text-align: center;
+        font-family: 'Bitcount Prop Single', monospace;
+        font-size: 0.9rem;
+        color: #888;
+        border-bottom: 1px dashed #333;
+        padding-bottom: 0.8rem;
+        margin-bottom: 1.5rem;
       }
 
-      blockquote {
-        border: 1px dotted #000;
-        padding: 10px;
-        text-align: justify;
-      }
 
       /* ===== POST-IT ===== */
       .post-it {
         position: absolute;
         top:-3em;
-        right:-7em;
+        right:-13em;
         background:var(--yellow);
         display:block;
-        height:14em;
+        height:10em;
         width:14em;
         padding:1em;
         box-shadow: 0px 10px 10px 1px rgba(0,0,0,0.3);
@@ -87,7 +86,7 @@
       }
 
       #container:hover {
-        border-color: #7fffdf44;
+        background: #7fffdf44;
       }
 
 
@@ -97,7 +96,7 @@
 	      margin: 5px;
 	      margin-left: auto;
 	      padding: 0px;
-        font-family: &quot;Libre Barcode 128 Text&quot;, system-ui;
+        font-family: "Libre Barcode 128 Text", system-ui;
         Font-size: 30px;
 	      text-align: right;
       }
@@ -119,6 +118,7 @@
       .sidebar-nav {
         position: absolute;
         top: 2rem;
+        left: -10rem;
         align-self: flex-start;
         width: 220px;
         flex-shrink: 0;
@@ -159,7 +159,7 @@
       }
 
       .sidebar-nav .nav-title::before {
-        content: "📖";
+        content: url(http://i17.photobucket.com/albums/b86/ylsgib/Minis%202/o0020002010474099522.gif);
         font-size: 1.1rem;
       }
 
@@ -184,7 +184,7 @@
       }
 
       .sidebar-nav a::before {
-        content: "▸ ";
+        content: url(http://i171.photobucket.com/albums/u300/ferny-dust/sozai/bullets/74.gif);
         opacity: 0;
         transition: 0.2s;
       }
@@ -225,7 +225,7 @@
 
       /* ===== TO-DO LIST ===== */
       .todolist {
-        background: #121212;
+        background:var(--white);
         padding: 1.5rem 2rem;
         border-radius: 12px;
         border: 1px solid #2a2a2a;
@@ -251,6 +251,7 @@
 
       /* ===== CRÉDITOS ===== */
       .creditos {
+        font-family: 'Bitcount Prop Double', sans-serif;
         font-size: 0.7rem;
         color: #555;
         text-align: center;
@@ -261,6 +262,7 @@
       }
 
       .creditos a {
+        font-family: 'Bitcount Prop Double', sans-serif;
         color: #777;
         text-decoration: none;
         border-bottom: 1px dotted #333;
