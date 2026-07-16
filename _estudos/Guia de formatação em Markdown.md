@@ -6,8 +6,6 @@ Status: em andamento = precisa de aprofundamento
 
 -->
 
-
-
 # Guia de formação em Markdonw
 
 
