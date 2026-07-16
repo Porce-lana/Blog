@@ -1,7 +1,7 @@
 ---
 title: files difference: .j vs .json
 date: 2026-07-16
-tag: ["files"]
+tags: ["languages"]
 ---
 <!---status: em andamento - precisa aprofundar--->
 
