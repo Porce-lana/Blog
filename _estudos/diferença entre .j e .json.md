@@ -18,12 +18,13 @@ The core difference is that a .js file contains executable code, while a .json f
   
 ## Comparação em tabela
 
-|a|b|c|
+| Feature |.js File (JavaScript) |.json File (JSON) |
 |-|-|-|
-|a|b|c|
-|a|b|c|
-|a|b|c|
-|a|b|c|
+| Primary Purpose | Writing application logic and programs | Transmitting and storing data |
+| Execution | Executed directly by a JS engine | Must be parsed into a data structure |
+| Language | SupportTied strictly to JavaScript ecosystems | Language-independent (Python, Java, etc.) |
+| Syntax Rules | Lenient (optional quotes, trailing commas) | Strict (mandatory double quotes, no trailing commas) |
+|Functions & Comments | Allowed | Forbidden |
 
 ## Notas
 [^1] Uma API (Interface de Programação de Aplicações) é um conjunto de regras que permite que diferentes sistemas de software conversem entre si.
