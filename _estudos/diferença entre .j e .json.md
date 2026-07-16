@@ -27,4 +27,4 @@ The core difference is that a .js file contains executable code, while a .json f
 |Functions & Comments | Allowed | Forbidden |
 
 ## Notas
-[^1] Uma API (Interface de Programação de Aplicações) é um conjunto de regras que permite que diferentes sistemas de software conversem entre si.
+[^1]: Uma API (Interface de Programação de Aplicações) é um conjunto de regras que permite que diferentes sistemas de software conversem entre si.
