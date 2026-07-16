@@ -1,8 +1,8 @@
------------
-TITULO: TO-DO LIST
-DATA: 16-05-2026
-TAG: #lista 
-----------
+---
+title: "to-do list"
+date: 2026-07-08
+tags: ["lista"]
+---
 
 # To do list para o github
 1. GERAL
