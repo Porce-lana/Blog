@@ -6,15 +6,14 @@ tags: ["lista"]
 
 # To do list para o github
 1. GERAL
+- [ ] padronizar os arquivos .md com a parte de info (title, date, tags, status...)
+- [ ] 
+- [x] criar um arquivo de css para cada página
+      
+2. CSS 
 - [ ] criar arquivo de main.css
 - [x] criar um arquivo de css para cada página
-3. CSS 
-- [ ] criar arquivo de main.css
-- [x] criar um arquivo de css para cada página
 
-2. HTML
+3. HTML
 
-3. JS
-
-4. JSON
 
