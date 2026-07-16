@@ -2,12 +2,15 @@
 
 Tema: Guia
 Tags: Guia; Markdown
+Status: em andamento = precisa de aprofundamento
 
 -->
+
+
 
 # Guia de formação em Markdonw
 
 
 ## Links de referência
-* (Site com dicas)[https://www.ecovida.org.br/docs/manual_site/markdown/]
-* (Preview instantâneo do código)[https://markdownlivepreview.com/]
+* <a href="https://www.ecovida.org.br/docs/manual_site/markdown/">Site com dicas</a>
+* <a href="https://www.ecovida.org.br/docs/manual_site/markdown/">Preview instantâneo de código em Markdonw</a>
