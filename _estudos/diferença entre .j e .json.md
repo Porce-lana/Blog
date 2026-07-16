@@ -10,7 +10,7 @@ The core difference is that a .js file contains executable code, while a .json f
 
 ## Comparação de definição
 * A .js file is a script. It is used to build logic, manipulate elements, and run calculations.
-* A .json file is strictly a text-based data format. It is heavily used for configuration files (like package.json) and API responses [^1].
+* A .json file is strictly a text-based data format. It is heavily used for configuration files (like package.json) and API responses[^1].
 
 ## Quando usar?
 * __Use .js__ when you need to write logic, declare variables, create functions, or export modules.
