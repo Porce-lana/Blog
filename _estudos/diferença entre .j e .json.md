@@ -1,11 +1,11 @@
 <!-- 
 
- Tema: .j Vs .json
+ Tema: files difference: .j Vs .json 
  Status: em andamento - precisa aprofundar
 
 -->
 
-# Diferença entre arquivo .j e .json (files)
+# Diferença entre arquivo Javascript (.js) e JSON (.json)
 The core difference is that a .js file contains executable code, while a .json file contains only raw, structured text data.
 
 ## Comparação de definição
