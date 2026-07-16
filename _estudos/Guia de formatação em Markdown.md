@@ -10,6 +10,12 @@ Status: em andamento = precisa de aprofundamento
 
 * The most standard way to define a title, date, and tags in a Markdown file is by using a YAML Front Matter block[^1]. This block must be placed at the absolute top of your file.
 
+  ## Breakdown of Syntax Options
+  * Title:  Wrap your title in quotation marks to prevent syntax conflicts if it contains special characters (like colons).
+  * Date: Follow the standard YYYY-MM-DD standard ISO date format.
+  * Tags (Array Format): You can list tags on a single line wrapped in square brackets: [tag1, tag2, tag3].
+  * Tags (List Format): Alternatively, you can list tags vertically using bulleted formatting
+
 
 ## Links de referência
 * <a href="https://www.ecovida.org.br/docs/manual_site/markdown/">Site com dicas</a>
